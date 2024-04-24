@@ -66,8 +66,8 @@ To set APP Key
 ## OUTPUT 
 ![Overview - Amrutha Rajsheker - The ThingsMate LoRaWAN Management Console_page-0001 (1)](https://github.com/AmruthaRajsheker/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/119475943/9bd80966-9b85-4f4c-9d5a-249bc4f94928)
 
-![Overview - eui-9876543212345678 - The ThingsMate LoRaWAN Management Console_page-0001](https://github.com/AmruthaRajsheker/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/119475943/b990c93a-b16e-4363-80e4-93a86c558b80)
 
+<img src="https://github.com/AmruthaRajsheker/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/119475943/b990c93a-b16e-4363-80e4-93a86c558b80" alt="description" style="width: 80%; height: auto;">
 
 
 ## Results: 
